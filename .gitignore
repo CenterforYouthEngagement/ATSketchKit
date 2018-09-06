@@ -18,6 +18,5 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 .DS_Store
-/ATSketchKit.xcodeproj/project.pbxproj
 /ATSketchKit.xcodeproj/xcshareddata/xcschemes/ATSketchKit.xcscheme
 /ATSketchKit.xcodeproj/xcshareddata/xcschemes/ATSketchKitDemo.xcscheme
