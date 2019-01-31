@@ -28,7 +28,6 @@ public class ATSketchView: UIView {
 	public var delegate: ATSketchViewDelegate?
 	
 	public enum Tools {
-		// TODO: Implement the Finger tool
 		case finger
 		case pencil
 		case smartPencil
